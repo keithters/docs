@@ -54,6 +54,6 @@ Some Rules for meetings:
 2. __Do your homework.__ If you find yourself in a meeting where you only brought your opinion, you should leave the meeting (unless, of course, the objective of the meeting is to get your opinion).
 3. __Finish early.__ Just because a meeting is booked for an hour does not mean that you  should fill said hour with meeting. One of the greatest gifts is giving people their time back. 
 4. __Listen more than you speak.__ You might learn something.
-5. Question your contribution. If you walk out of a meeting with no assignment, get your assignment, or, question whether you are needed in the next meeting - also question whether you are needed on the project.
-6. Do it Now. If it takes nearly the same amount of time to create a ‘todo’ as to do the task, do the task. Edit the deck / script / tech-spec / code / stylesheet / etc. now. __Right. F-ing. Now.__
+5. __Question your contribution.__ If you walk out of a meeting with no assignment, get your assignment, or, question whether you are needed in the next meeting - also question whether you are needed on the project.
+6. __Do it Now.__ If it takes nearly the same amount of time to create a ‘todo’ as to do the task, do the task. Edit the deck / script / tech-spec / code / stylesheet / etc. now. __Right. F-ing. Now.__
 7. __Pick up your fucking glass.__ At the minimum, pick up after yourself. Leave the room cleaner and more organized (knolling!) than you found it. This makes for a better environment, and demonstrates respect for the people you work with.
