@@ -47,6 +47,8 @@ My constantly-changing, (mostly) Co-opted list, derived from other sources, filt
 12. __Always Be Knolling.__ - Tom Sachs
 
 
+
+
 Some Rules for meetings:
 1. __Have objectives.__ Meetings must have tangible objectives, and either result in assignments for team members or mark the completion of a project (hooray!). Agendas are not objectives. Also, communicate these objectives to participants in advance  so everyone can properly do #2. 
 2. __Do your homework.__ If you find yourself in a meeting where you only brought your opinion, you should leave the meeting (unless, of course, the objective of the meeting is to get your opinion).
