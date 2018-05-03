@@ -45,6 +45,7 @@ My constantly-changing, (mostly) Co-opted list, derived from other sources, filt
     * Your area of expertise is deeply connected to and intermingled with areas where you might lack expertise
     * The overlaps between your expertise and another’s is where the magic of collaboration starts
 12. __Always Be Knolling.__ - Tom Sachs
+12. __Our Work Has Value.__
 
 
 
